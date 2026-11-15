@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aroundble.github.io/korea-event-base-rates/sitemap.xml
